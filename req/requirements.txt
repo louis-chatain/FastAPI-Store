@@ -12,11 +12,16 @@ fastapi==0.123.5
 h11==0.16.0
 hiredis==3.3.0
 idna==3.11
+iniconfig==2.3.0
 more-itertools==10.8.0
+packaging==25.0
+pluggy==1.6.0
 pycparser==2.23
 pydantic==2.12.5
 pydantic_core==2.41.5
+Pygments==2.19.2
 PyJWT==2.10.1
+pytest==9.0.2
 python-dotenv==1.2.1
 python-ulid==1.1.0
 redis==5.3.1
